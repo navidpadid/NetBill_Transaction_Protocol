@@ -1,0 +1,30 @@
+plain text: b'11012||1999||381277'
+cipher text: b'gAAAAABdOprEc1CY46IBAo6So5Yq__Ut1ASGXhqEZSGte-7qd5Ha0B9UBthlG3ekx_WxCymtdGwmXC7l3fsZs42_aToGsg4oFFGs8mPkx9oXpPsYVQsAsG4='
+
+plain text: b'11012||1998||381277'
+cipher text: b'gAAAAABdOprF-bltMYi6UVmHQBKjTRdSrlVG_19ChLPt5pynObZeF_Ly24D4pkO6q-lJd27ndiI8v8OJVLbSHQxZZUNSYWYn2rDLIFV3iyUmsGnQdOtI_DM='
+
+plain text: b'11012||1997||381277'
+cipher text: b'gAAAAABdOprGUjoXHqAsjb68oIGAWWZS-K80XeA_chkXMcnQUOQIvGKqpshnCeTkF43C4FL9GyI-Ufj9Q8PXGTvoCn8z9o_QoxkthksGSHnQpTujJNNfhLk='
+
+plain text: b'11012||1996||381277'
+cipher text: b'gAAAAABdOprHwBf1nuuKtT8CLX8hQmNlI3u4Fjt1SIZd5g9AW5OdjL3uqTw6R14iSrintXsPBxaRGQ-cxnAS00YqAK0O2k5Xd3tCTe7bkj9ZfV_dZTIxFVI='
+
+plain text: b'11012||1995||381277'
+cipher text: b'gAAAAABdOprIZwtAaz9CXXon_YXSOFLT7C-Y5q8O10OYRbeYe3_Tv5sJ63Tt6DNyEAfHN5FK3aKbIKgSRXyW-lfC26nZQh4dRq9VOUqqqpYJNtPZCYaBnH0='
+
+plain text: b'11012||1994||381277'
+cipher text: b'gAAAAABdOprJQ9Rn7R1olwginwsByuSa3MPqh-tJJKGXJTfzpyjIiCwQKMmFKqaa0u2IDtxsb03Hh7DUrg5m2tu3AZgiwcaAYLIcc5hXdnKlRa3nzEGjbcA='
+
+plain text: b'11012||1993||381277'
+cipher text: b'gAAAAABdOprKdSz8dqFc3MooAxhCkGQhNtQSQKp_t_oHFiQA-6H4D7xepOQn78rpdO5WIadKB6RaDve10fc3j_-hoEOx_FI7SPYIu4LoNVKGXMcC6peIRvc='
+
+plain text: b'11012||1992||381277'
+cipher text: b'gAAAAABdOprLCYFLuxM_R30lEgK2z27uBv5E-i6ucNXTXP_19DNtWaJxvCeLbsBuySc9_h-vP0uSLHhEICjJ0nm4Lf5Apf7J6LImHgIVAPS-wz8bDab7LlY='
+
+plain text: b'11012||1991||381277'
+cipher text: b'gAAAAABdOprMn_dNPagVrV6YaxAVprF1GWdc9iZf1bGtOaWdPLN5OvxV6bOy9Gtf6XOjRQYwwXTg4UZEGdoCixYZtVTYb9fpdKvOjAa52wc-J3X1uKYomcA='
+
+plain text: b'11012||1990||381277'
+cipher text: b'gAAAAABdOprN3UAM5IDi-c1xSoeaQ7rYrN7skSI3EwIiGgoF-DiC0QWENLt-DrNpO3aA0yS8nsP0w8so_Kq2hO2VkTyPbEZx84_bYNfzO2cTU8sw2znH_Do='
+
