@@ -49,6 +49,7 @@ of transaction results from NetBill.
 
 *In addition, we have the following objectives to support
 price negotiation and goods delivery.*
+
 e) There is an offer and acceptance negotiation phase
 between customer and merchant.
 
@@ -64,6 +65,7 @@ allow a transaction.
 
 *Finally, we add as a general objective for all phases of
 the purchase process:*
+
 i) The privacy and integrity of communications is
 protected from observation or alteration by external
 parties.
