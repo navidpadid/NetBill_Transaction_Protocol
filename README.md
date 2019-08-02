@@ -97,7 +97,7 @@ forwards a copy to the customer.
 
 1. C ⇒ M Price request
 2. M ⇒ C Price quote
-3. Price quote Goods request
+3. C ⇒ M Price quote Goods request
 4. M ⇒ C Goods, encrypted with a key K
 5. C ⇒ M Signed Electronic Payment Order
 6. M ⇒ N Endorsed EPO (including K)
