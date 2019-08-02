@@ -113,7 +113,7 @@ forwards a copy to the customer.
 
 ## Implementation Of NetBill Protocol
 
-In this project me (Navid Malek) and my fellow friend implemented most of NetBill transaction protocol, including:
+In this project me (Navid Malek) and my fellow friend [Reza Rahimi](https://www.linkedin.com/in/reza-rahimi-883b61167/) implemented most of NetBill transaction protocol, including:
 
 - Transaction Protocol
 
