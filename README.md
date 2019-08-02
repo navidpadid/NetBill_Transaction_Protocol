@@ -1,5 +1,9 @@
 # Netbill Transaction Protocol Simulator
 
+
+## NetBill Protocol in Theory
+
+
 **What is NetBill?**
 
 NetBill is a system for micropayments for information
@@ -105,5 +109,36 @@ forwards a copy to the customer.
 8. M ⇒ C Signed result (including K)
 
 ![NetBill Protocol Phases](NetBillPhases.png)
+
+
+## Implementation Of NetBill Protocol
+
+In this project me (Navid Malek) and my fellow friend implemented most of NetBill transaction protocol, including:
+
+- Transaction Protocol
+
+*Paper Sections*
+
+3.2. The Price Request Phase
+
+3.3. The Goods Delivery Phase
+
+3.4. The Payment Phase
+
++ Error recovery (Not enough balance, Courruption, No access, etc.)
+
+- Pseudonyms Protocol
+
+*Paper Sections*
+
+4.2. Pseudonyms
+
+- Access Control Mechanism
+
+Mini Access contol app not According to paper
+
+
+## Code Explanation
+
 
 
