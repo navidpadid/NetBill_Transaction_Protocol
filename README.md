@@ -27,4 +27,81 @@ the customer, the merchant and the NetBill transaction
 server. A transaction involves three phases: price
 negotiation, goods delivery, and payment.
 
-![NetBill Transaction Model](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/447c10270e6e3ceac04171c3cb49bd6fdd316ea5/2-Figure1-1.png)
+![NetBill Transaction Model](NetBillModel.png)
+
+
+**Transaction Objectives** 
+
+For a NetBill transaction, we have the following set of
+objectives. 
+
+a) Only authorized customers can charge against a
+NetBill account.
+
+b) The customer and merchant must agree on the item
+to be purchased and the price to be charged.
+
+c) A customer can optionally protect her identity from
+merchants.
+
+d) Customers and merchants are provided with proof
+of transaction results from NetBill.
+
+*In addition, we have the following objectives to support
+price negotiation and goods delivery.*
+e) There is an offer and acceptance negotiation phase
+between customer and merchant.
+
+f) A customer may present credentials identifying her
+as entitled to special pricing or treatment.
+
+g) A customer receives the information goods she purchases if and only if she is charged (and thus the
+merchant is paid) for the goods.
+
+h) A customer may need approval from a fourth
+(access control) party before the NetBill server will
+allow a transaction.
+
+*Finally, we add as a general objective for all phases of
+the purchase process:*
+i) The privacy and integrity of communications is
+protected from observation or alteration by external
+parties.
+
+
+**Transaction Protocol Overview**
+
+In the price negotiation phase, the customer
+presents evidence of her identity, and (optionally)
+supplemental credentials, and requests a price quote on
+an item. The customer may also include a bid for the
+item. The merchant responds with a price offer.
+
+In the second phase, the customer accepts or
+declines the offer. In the case of information goods,
+acceptance constitutes an order for network delivery.
+The merchant provisionally delivers the goods, under
+encryption, but withholds the key.
+
+Key delivery is linked to completion of the third
+phase, the payment protocol. In this phase, the customer
+constructs, and digitally signs, an electronic payment
+order (or EPO) and sends it to the merchant. The
+merchant appends the key to the EPO and endorses
+(digitally signs) the EPO, forwarding it to the NetBill
+server. The NetBill server returns a digitally signed
+receipt, which includes the key, to the merchant, who
+forwards a copy to the customer.
+
+1. C ⇒ M Price request
+2. M ⇒ C Price quote
+3. Price quote Goods request
+4. M ⇒ C Goods, encrypted with a key K
+5. C ⇒ M Signed Electronic Payment Order
+6. M ⇒ N Endorsed EPO (including K)
+7. N ⇒ M Signed result (including K)
+8. M ⇒ C Signed result (including K)
+
+![NetBill Protocol Phases](NetBillPhases.png)
+
+
