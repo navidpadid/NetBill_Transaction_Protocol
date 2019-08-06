@@ -152,7 +152,15 @@ merchant.py ==Mostly written by Reza==> merchant app for transaction phase
 
 netbill-server.py  ==Mostly written by Reza==> netbill-server app for transaction phase
 
-*.json files act as a data base for example products.json is a simple data base for products
+**.json** files act as data bases, for example products.json is a simple data base for products
+
+accessList.txt is a simple acces control list, anyone in the list is authorized to buy
+
+**.key** files are various symmetric keys used in protocol's phases; for instance, K1.key and K2.key are the keys used in Pseudonyms phase with the same name in original paper's description
+
+**.pem** files are the asymmetric keys; for instance, PV_C.pem is the private key of customer
+
+other **.txt** files are mainly the intermediary files
 
 
 
