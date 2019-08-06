@@ -142,9 +142,17 @@ Mini Access contol app not According to paper
 
 TicketGenerator.py ==Written by Navid==> Generating MIT Kerberos ticket for merchant or netbill server
 
-Pseudonyms.py ==Written by Navid==>  Pseudonym phase
+Pseudonyms.py ==Written by Navid==>  Pseudonym phase or simple true identity ticket generation
 
 AccessControl.py ==Written by Navid==> AccessControl mini App
+
+customer.py ==Mostly written by Reza==> customer app for transaction phase
+
+merchant.py ==Mostly written by Reza==> merchant app for transaction phase
+
+netbill-server.py  ==Mostly written by Reza==> netbill-server app for transaction phase
+
+*.json files act as a data base for example products.json is a simple data base for products
 
 
 
