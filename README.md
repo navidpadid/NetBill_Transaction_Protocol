@@ -137,6 +137,9 @@ In this project me ([Navid Malek](https://www.linkedin.com/in/navid-malek-b9bb6b
 
 Mini Access contol app not According to paper
 
+**Approach**
+
+Our main focus was to implement the protocol, so the approach we take was to use intermediary files that act as Sockets; hence, for various steps of protocol istead of writing data into socket and read from it, we have used files. In the next section, I provide more details about the files and codes presented.
 
 ## Code and Files Explanation
 
