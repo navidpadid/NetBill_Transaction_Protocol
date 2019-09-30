@@ -4,7 +4,7 @@
 ## NetBill Protocol in Theory
 
 
-**What is NetBill?**
+**What is NetBill?** [From Original Paper]
 
 NetBill is a system for micropayments for information
 goods (digital commodities) on the Internet.
@@ -34,7 +34,7 @@ negotiation, goods delivery, and payment.
 ![NetBill Transaction Model](NetBillModel.png)
 
 
-**Transaction Objectives** 
+**Transaction Objectives** [From Original Paper]
 
 For a NetBill transaction, we have the following set of
 objectives. 
@@ -75,7 +75,7 @@ protected from observation or alteration by external
 parties.
 
 
-**Transaction Protocol Overview**
+**Transaction Protocol Overview** [From Original Paper]
 
 In the price negotiation phase, the customer
 presents evidence of her identity, and (optionally)
@@ -146,11 +146,11 @@ Pseudonyms.py ==Written by Navid==>  Pseudonym phase or simple true identity tic
 
 AccessControl.py ==Written by Navid==> AccessControl mini App
 
-customer.py ==Mostly written by Reza==> customer app for transaction phase
+customer.py ==Almost all of it written by Reza==> customer app for transaction phase
 
-merchant.py ==Mostly written by Reza==> merchant app for transaction phase
+merchant.py ==Almost all of it written by Reza==> merchant app for transaction phase
 
-netbill-server.py  ==Mostly written by Reza==> netbill-server app for transaction phase
+netbill-server.py  ==Almost all of it written by Reza==> netbill-server app for transaction phase
 
 **.json** files act as data bases, for example products.json is a simple data base for products
 
