@@ -157,7 +157,7 @@ netbill-server.py  ==Almost all of it written by Reza==> netbill-server app for 
 
 **.json** files act as data bases, for example products.json is a simple data base for products
 
-accessList.txt is a simple acces control list, anyone in the list is authorized to buy
+**accessList.txt** is a simple acces control list, anyone in the list is authorized to buy
 
 **.key** files are various symmetric keys used in protocol's phases; for instance, K1.key and K2.key are the keys used in Pseudonyms phase with the same name in original paper's description
 
