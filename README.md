@@ -24,7 +24,7 @@ depositing them in the merchant’s bank account.
 NetBill requires an efficient set of protocols to
 support price negotiation, goods delivery and payment.
 
-**The NetBill Transaction Model**
+**The NetBill Transaction Model** [From Original Paper]
 
 The NetBill transaction model involves three parties:
 the customer, the merchant and the NetBill transaction
@@ -139,7 +139,7 @@ Mini Access contol app not According to paper
 
 **Approach**
 
-Our main focus was to implement the protocol, so the approach we take was to use intermediary files that act as Sockets; hence, for various steps of protocol istead of writing data into socket and read from it, we have used files. In the next section, I provide more details about the files and codes presented.
+Our main focus was to implement the protocol, so the approach we take was to use intermediary files that act as Sockets; hence, for various steps of protocol istead of writing data into socket and read from it, we have used files. In the next section, I have provided more details about the files and codes presented.
 
 ## Code and Files Explanation
 
