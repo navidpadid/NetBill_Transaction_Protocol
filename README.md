@@ -185,9 +185,9 @@ git clone https://github.com/navidpadid/NetBill_Transaction_Protocol/
 
 2) run the codes
 
-**Here are various scenarious which I've ran the code from a fresh clone of repository.**
+**Here are various scenarios which I've ran the code from a fresh clone of repository.**
 
-**Some scenarious include: with/without pseudonyms, with/without access to buy, with/wihtout NetBill account, with/wihtout enough credits to buy a commodity.**
+**Some scenarios include: with/without pseudonyms, with/without access to buy, with/wihtout NetBill account, with/wihtout enough credits to buy a commodity.**
 
 **Watch it here:** https://www.aparat.com/v/YfZAw
 
