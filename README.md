@@ -174,7 +174,9 @@ other **.txt** files are mainly the intermediary files
 
 **MIT Kerberos server and client**
 
-**Bash shell**
+**Bash Shell**
+
+Tested on ubuntu ( should be fine in all Linux distros )
 
 ## How To Run
 
@@ -183,8 +185,9 @@ git clone https://github.com/navidpadid/NetBill_Transaction_Protocol/
 
 2) run the codes
 
-**Here are various circumstances which I've ran the code from a fresh clone of repository**
-**Some circustances include: with/without pseudonyms, with/without access to buy, with/wihtout NetBill account, with/wihtout enough credits to buy a commodity**
+**Here are various scenarious which I've ran the code from a fresh clone of repository.**
+
+**Some scenarious include: with/without pseudonyms, with/without access to buy, with/wihtout NetBill account, with/wihtout enough credits to buy a commodity.**
 
 **Watch it here:** https://www.aparat.com/v/YfZAw
 
