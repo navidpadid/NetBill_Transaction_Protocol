@@ -165,5 +165,27 @@ netbill-server.py  ==Almost all of it written by Reza==> netbill-server app for 
 
 other **.txt** files are mainly the intermediary files
 
+//TO DO add more comments on files
+
+## Requirements 
+**python 3**
+
+**python 3 crypto libraries**
+
+**MIT Kerberos server and client**
+
+**Bash shell**
+
+## How To Run
+
+1) run the following command in terminal:
+git clone https://github.com/navidpadid/NetBill_Transaction_Protocol/
+
+2) run the codes
+
+**Here are various circumstances which I've ran the code from a fresh clone of repository**
+**Some circustances include: with/without pseudonyms, with/without access to buy, with/wihtout NetBill account, with/wihtout enough credits to buy a commodity**
+
+**Watch it here:** https://www.aparat.com/v/YfZAw
 
 
