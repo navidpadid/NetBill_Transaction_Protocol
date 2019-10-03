@@ -178,7 +178,7 @@ other **.txt** files are mainly the intermediary files
 
 Tested on ubuntu ( should be fine in all Linux distros )
 
-## How To Run
+## How To Run and Other Stuff
 
 1) run the following command in terminal:
 git clone https://github.com/navidpadid/NetBill_Transaction_Protocol/
@@ -190,5 +190,11 @@ git clone https://github.com/navidpadid/NetBill_Transaction_Protocol/
 **Some scenarios include: with/without pseudonyms, with/without access to buy, with/wihtout NetBill account, with/wihtout enough credits to buy a commodity.**
 
 **Watch it here:** https://www.aparat.com/v/YfZAw
+
+**Blog Post:** http://navidmalek.blog.ir/1398/07/11/Netbill-Transaction-Protocol-Simulator
+
+
+
+
 
 
