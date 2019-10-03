@@ -168,9 +168,9 @@ other **.txt** files are mainly the intermediary files
 //TO DO add more comments on files
 
 ## Requirements 
-**python 3**
+**Python 3**
 
-**python 3 crypto libraries**
+**Python 3 crypto and system libraries**
 
 **MIT Kerberos server and client**
 
