@@ -1,4 +1,4 @@
-# Netbill Transaction Protocol Simulator
+# Netbill Transaction Protocol
 
 
 ## NetBill Protocol in Theory
